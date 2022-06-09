@@ -41,7 +41,10 @@ Git - программа для контроля версий
 ![Doc.U.Ment](Images/git_log.png)
 
 >git checkout – переход от одного коммита к другому
+![Doc.U.Ment](Images/git_checkout.png)
 
 >git checkout master – вернуться к актуальному состоянию и продолжить работу
+![Doc.U.Ment](Images/git_checkout_main.png)
 
 >git diff – увидеть разницу между текущим файлом и закоммиченным файлом
+![Doc.U.Ment](Images/git_diff.png)

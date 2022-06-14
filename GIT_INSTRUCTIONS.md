@@ -49,4 +49,5 @@ Git - программа для контроля версий
 >git diff – увидеть разницу между текущим файлом и закоммиченным файлом
 ![Doc.U.Ment](Images/git_diff.png)
 
-git log --graph  – журнал коммитов с визуализацией
+>git log --graph  – журнал коммитов с визуализацией
+![Doc.U.Ment](Images/git_log_graph.png)

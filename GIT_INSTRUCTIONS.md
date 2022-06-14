@@ -17,7 +17,8 @@ Git - программа для контроля версий
 версию пограммы. Для этого в терминале введём команду:
 
 >git --version
-![Doc.U.Ment](Images/Git_version.png)
+
+>![Doc.U.Ment](Images/Git_version.png)
 
 
 
@@ -48,3 +49,11 @@ Git - программа для контроля версий
 
 >git diff – увидеть разницу между текущим файлом и закоммиченным файлом
 ![Doc.U.Ment](Images/git_diff.png)
+
+>git branch <название ветки> – создать новую ветку  
+![Doc.U.Ment](Images/git_branch_name.png)
+
+>git branch – посмотреть список веток в репозитории
+![Doc.U.Ment](Images/git_branch.png)
+
+>git branch -d <название ветки> – удалить ветку

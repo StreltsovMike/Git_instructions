@@ -61,3 +61,6 @@ Git - программа для контроля версий
 
 >git log --graph  – журнал коммитов с визуализацией
 ![Doc.U.Ment](Images/git_log_graph.png)
+
+>git commit -a -m “текст_коммита”  –  создание изменения и его коммит
+![Doc.U.Ment](Images/git_commit_am.png)

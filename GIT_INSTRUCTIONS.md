@@ -57,6 +57,7 @@ Git - программа для контроля версий
 ![Doc.U.Ment](Images/git_branch.png)
 
 >git branch -d <название ветки> – удалить ветку
+![Doc.U.Ment](Images/git_branch_d.png)
 
 >git log --graph  – журнал коммитов с визуализацией
 ![Doc.U.Ment](Images/git_log_graph.png)

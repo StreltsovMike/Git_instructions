@@ -17,8 +17,7 @@ Git - программа для контроля версий
 версию пограммы. Для этого в терминале введём команду:
 
 >git --version
-
->![Doc.U.Ment](Images/Git_version.png)
+![Doc.U.Ment](Images/Git_version.png)
 
 
 
